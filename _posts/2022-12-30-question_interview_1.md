@@ -42,3 +42,10 @@ This Rest Parameter and Spread Operator , I hope you enjoyed and learned .
 Don’t just read about it , try it !
 
 Happy learning ..
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+
